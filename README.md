@@ -4,6 +4,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)](https://github.com)
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://github.com)
+[![Releases](https://img.shields.io/github/v/release/a605204746/rpa_wxcom_chat_public)](https://github.com/a605204746/rpa_wxcom_chat_public/releases)
 
 企业微信是数百万企业的日常沟通工具，但一个被忽视的现实是：**聊天记录随时可能丢失**。员工离职、手机换机、缓存清理……那些重要的客户对话、项目讨论、决策记录，说没就没。
 
@@ -189,7 +190,7 @@
 **如果这款工具对你有帮助，请给我们一个 Star ⭐，让更多人看到。**
 
 如需企业定制或技术支持，欢迎联系作者。
-
+![img.png](img.png)
 ---
 
 ## 相关关键词索引
