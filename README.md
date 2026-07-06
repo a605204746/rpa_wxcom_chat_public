@@ -170,7 +170,7 @@
 
 ## 快速上手
 
-1. 从 [Releases](#) 页面下载最新版本安装包
+1. 从 [Releases](https://github.com/a605204746/rpa_wxcom_chat_public/releases) 页面下载最新版本安装包
 2. 双击安装，启动工具
 3. 确保企业微信客户端已登录并在后台运行
 4. 选择功能模块 → 添加采集目标 → 点击开始
